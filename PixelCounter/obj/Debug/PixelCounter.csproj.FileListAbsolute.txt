@@ -1,0 +1,15 @@
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\bin\Debug\PixelCounter.exe.config
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\bin\Debug\PixelCounter.exe
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\bin\Debug\PixelCounter.pdb
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.csprojAssemblyReference.cache
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\MainWindow.g.cs
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\App.g.cs
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter_MarkupCompile.cache
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter_MarkupCompile.lref
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\MainWindow.baml
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.g.resources
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.Properties.Resources.resources
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.csproj.GenerateResource.cache
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.csproj.CoreCompileInputs.cache
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.exe
+C:\CS376\AsciiArt\AsciiArt\PixelCounter\obj\Debug\PixelCounter.pdb

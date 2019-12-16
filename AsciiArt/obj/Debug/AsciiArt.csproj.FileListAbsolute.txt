@@ -1,0 +1,13 @@
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe.config
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\bin\Debug\AsciiArt.pdb
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csprojAssemblyReference.cache
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\MainWindow.g.cs
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\App.g.cs
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt_MarkupCompile.cache
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt_MarkupCompile.lref
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\MainWindow.baml
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.g.resources
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.CoreCompileInputs.cache
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.exe
+C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.pdb
