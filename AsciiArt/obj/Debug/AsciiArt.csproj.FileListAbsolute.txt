@@ -11,3 +11,16 @@ C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.g.resources
 C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.CoreCompileInputs.cache
 C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.exe
 C:\CS376\AsciiArt\AsciiArt\AsciiArt\obj\Debug\AsciiArt.pdb
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe.config
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\bin\Debug\AsciiArt.pdb
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.AssemblyReference.cache
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\MainWindow.g.cs
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\App.g.cs
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt_MarkupCompile.cache
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt_MarkupCompile.lref
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\MainWindow.baml
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt.g.resources
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.CoreCompileInputs.cache
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt.exe
+D:\Programming\_JIM_NONSTRUCTURAL\CS376-AsciiArt\AsciiArt\obj\Debug\AsciiArt.pdb

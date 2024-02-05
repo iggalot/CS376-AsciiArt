@@ -300,8 +300,8 @@ namespace AsciiArt
             PixellatedHeight = source.PixelHeight / fontpixelheight;
 
             // set our display values
-            strNumBlockHoriz.Text = "" + PixellatedWidth.ToString();
-            strNumBlockVert.Text = PixellatedHeight.ToString();
+            strNumBlockHoriz.Text = "" + Math.Ceiling(PixellatedWidth).ToString();
+            strNumBlockVert.Text = Math.Ceiling(PixellatedHeight).ToString();
         }
 
         private void ComputeFontPixelInfo()
@@ -620,6 +620,33 @@ namespace AsciiArt
                                 SetPixel(newconvertedwbmap, i, j, System.Drawing.Color.FromArgb(255, (int)red, (int)green, (int)blue));
                             }
                         }
+
+                        // draw a pixellated grid over the top
+                        // draw vertical grid lines
+                        for (int i = horiz_index; i < horiz_index + x_width; i=i+(int)x_width)
+                        {
+                            for (int j = vert_index; j < vert_index + y_width; j++)
+                            {
+                                double red = 0.0f;
+                                double green = 0.0f;
+                                double blue = 0.0f;
+                                SetPixel(newconvertedwbmap, (int)i, j, System.Drawing.Color.FromArgb(255, (int)red, (int)green, (int)blue));
+                            }
+                        }
+
+                        // draw a pixellated grid over the top
+                        // draw horizontal grid lines
+                        for (int j = vert_index; j < vert_index + y_width; j=j+(int)y_width)
+                        {
+                            for (int i = horiz_index; i < horiz_index + x_width; i++)
+                            {
+                                double red = 0.0f;
+                                double green = 0.0f;
+                                double blue = 0.0f;
+                                SetPixel(newconvertedwbmap, (int)i, j, System.Drawing.Color.FromArgb(255, (int)red, (int)green, (int)blue));
+                            }
+                        }
+
                     }
                 }
                 totalmapstring += asciistring + "\n";

@@ -50,8 +50,8 @@
 
             <StackPanel Orientation="Vertical" Background="Gray">
                 <StackPanel Orientation="Horizontal" Background="Gray">
-                    <Label Content="Font Size: " Background="Gray" Foreground="White" FontSize="12" />
-                    <Slider Name="fontSlider" Margin="3" Width="150" HorizontalAlignment="Left" Maximum="15" Minimum="2" TickPlacement="BottomRight" TickFrequency="2" ValueChanged="fontSlider_ValueChanged" />
+                    <Label Content="Size: " Background="Gray" Foreground="White" FontSize="12" />
+                    <Slider Name="fontSlider" Margin="3" Width="150" HorizontalAlignment="Left" Maximum="100" Minimum="2" TickPlacement="BottomRight" TickFrequency="2" ValueChanged="fontSlider_ValueChanged" />
                     <Button Content="Draw ASCII" Margin="3" Click="MenuAsciiArt_Click"></Button>
                     <Label Name="numBlockHorizLabel" Content="#Horiz: "  VerticalAlignment="Center" Background="Gray" Foreground="White" FontSize="12" />
                     <TextBlock Name="strNumBlockHoriz" VerticalAlignment="Center" Width="Auto" Background="Gray" Foreground="White" FontSize="12" />
